@@ -1,0 +1,2 @@
+# Sentiment Analysis on Tweets using Logistic Regression
+This project uses a Logistic Regression model to perform sentiment analysis on tweets, achieving approximately 80% accuracy on test data and 83% on training data, indicating no overfitting. The dataset is sourced from [Sentiment140 on Kaggle](https://www.kaggle.com/datasets/kazanova/sentiment140). The repository includes code for data preprocessing, model training, and evaluation.
